@@ -1,5 +1,5 @@
 # drinkapp
-wine or water app
+wine or water app - project for the SheNomads mentorship program
 
 Run app in the command line:
 ruby drinkapp.rb
